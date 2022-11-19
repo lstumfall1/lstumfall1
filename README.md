@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @lstumfall1
 - 👀 I’m interested in learning to become a full-stack.
-- 🌱 I’m currently learning through the Odin Project.
-- 💞️ I’m looking to collaborate on basic web debugs and web design.
+- 🌱 I’m currently enrolled at Western Governors University working on my bachelors in Computer Science.
 - 📫 How to reach me at lukestumfalL@gmail.com
 
 <!---
